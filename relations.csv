@@ -1,46 +1,46 @@
-ID1,ID2,weight,Emails_per_month
-0,1,1,5
-0,2,1,6
-1,2,1,5
-2,3,2,25
-2,4,2,36
-2,5,3,53
-3,6,4,150
-3,7,5,213
-3,8,5,298
-4,9,6,345
-4,10,4,123
-4,11,5,212
-4,12,7,453
-4,13,4,156
-4,14,5,278
-5,15,5,300
-5,16,3,78
-5,17,5,256
-6,7,3,78
-6,8,4,145
-7,8,4,139
-9,10,2,34
-9,11,4,134
-9,12,7,546
-9,13,2,23
-9,14,4,145
-10,11,5,256
-10,12,5,222
-10,13,4,190
-10,14,3,56
-11,12,3,78
-11,13,4,112
-12,14,3,98
-15,16,3,88
-15,17,4,128
-16,17,5,238
-17,7,1,5
-16,6,2,15
-16,7,2,23
-16,8,3,54
-16,9,2,18
-16,11,2,23
-16,13,2,41
-16,14,2,13
-16,10,2,27
+ID1,ID2,weight,Emails_per_month,First_Name ,Position_1,Position_2
+0,1,1,5,James ,Director,Director
+0,2,1,6,James ,Director,CEO
+1,2,1,5,David ,Director,CEO
+2,3,2,25,George ,CEO,Business Development Manager
+2,4,2,36,George ,CEO,Business Support Manager
+2,5,3,53,George ,CEO,Business Control Manager
+3,6,4,150,Ronald ,Business Development Manager,Sales Department Leader
+3,7,5,213,Ronald ,Business Development Manager,Product Department Leader
+3,8,5,298,Ronald ,Business Development Manager,Marketing Department Leader
+4,9,6,345,John ,Business Support Manager,Project Office Leader
+4,10,4,123,John ,Business Support Manager,Professional Service Leader
+4,11,5,212,John ,Business Support Manager,QA Leader
+4,12,7,453,John ,Business Support Manager,Design Office Leader
+4,13,4,156,John ,Business Support Manager,Technical Support Office Leader
+4,14,5,278,John ,Business Support Manager,Software Development Leader
+5,15,5,300,Richard ,Business Control Manager,Legal Office Leader
+5,16,3,78,Richard ,Business Control Manager,Finance Office Leader
+5,17,5,256,Richard ,Business Control Manager,HR Office Leader
+6,7,3,78,Daniel ,Sales Department Leader,Product Department Leader
+6,8,4,145,Daniel ,Sales Department Leader,Marketing Department Leader
+7,8,4,139,Kenneth ,Product Department Leader,Marketing Department Leader
+9,10,2,34,Robert ,Project Office Leader,Professional Service Leader
+9,11,4,134,Robert ,Project Office Leader,QA Leader
+9,12,7,546,Robert ,Project Office Leader,Design Office Leader
+9,13,2,23,Robert ,Project Office Leader,Technical Support Office Leader
+9,14,4,145,Robert ,Project Office Leader,Software Development Leader
+10,11,5,256,Charles ,Professional Service Leader,QA Leader
+10,12,5,222,Charles ,Professional Service Leader,Design Office Leader
+10,13,4,190,Charles ,Professional Service Leader,Technical Support Office Leader
+10,14,3,56,Charles ,Professional Service Leader,Software Development Leader
+11,12,3,78,Paul ,QA Leader,Design Office Leader
+11,13,4,112,Paul ,QA Leader,Technical Support Office Leader
+12,14,3,98,Mark ,Design Office Leader,Software Development Leader
+15,16,3,88,Joseph ,Legal Office Leader,Finance Office Leader
+15,17,4,128,Joseph ,Legal Office Leader,HR Office Leader
+16,6,2,15,Michael ,Finance Office Leader,Sales Department Leader
+16,7,2,23,Michael ,Finance Office Leader,Product Department Leader
+16,8,3,54,Michael ,Finance Office Leader,Marketing Department Leader
+16,9,2,18,Michael ,Finance Office Leader,Project Office Leader
+16,10,2,27,Michael ,Finance Office Leader,Professional Service Leader
+16,11,2,23,Michael ,Finance Office Leader,QA Leader
+16,13,2,41,Michael ,Finance Office Leader,Technical Support Office Leader
+16,14,2,13,Michael ,Finance Office Leader,Software Development Leader
+16,17,5,238,Michael ,Finance Office Leader,HR Office Leader
+17,7,1,5,Jason ,HR Office Leader,Product Department Leader
